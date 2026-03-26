@@ -21,13 +21,22 @@
 
 		<!-- Blog Posts -->
 		<item>
-			<title>Post Title</title>
+			<title>After the Person Who Always Knew</title>
 			<link>https://raji-ilangovan-uma.github.io/after-the-person-who-always-knew.html</link>
-			<description>Description</description>
+			<description>The annoying thing about living in a world where not everyone knows what you are thinking, and therefore you have to ask for what you need, means that the burden of care falls on yourself.</description>
 			<enclosure url="raji-ilangovan-uma.github.io/images/drowning.png" length="97986" type="image/png" />
 			<category>Blog Posts</category>
 			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
 			<guid isPermaLink="true">https://raji-ilangovan-uma.github.io/after-the-person-who-always-knew.html</guid>
+		</item>
+		<item>
+			<title>A Trail of Red and Grey</title>
+			<link>https://raji-ilangovan-uma.github.io/a-trail-of-red-and-grey.html</link>
+			<description>I walk down memory lane, and don't recognize myself there.</description>
+			<enclosure url="raji-ilangovan-uma.github.io/images/red-and-grey-lady.png" length="5657392" type="image/png" />
+			<category>Blog Posts</category>
+			<pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+			<guid isPermaLink="true">https://raji-ilangovan-uma.github.io/a-trail-of-red-and-grey.html</guid>
 		</item>
 	</channel>
 </rss>
