@@ -21,6 +21,15 @@
 
 		<!-- Blog Posts -->
 		<item>
+			<title>QAN Open Mic Night</title>
+			<link>https://raji-ilangovan-uma.github.io/qan-open-mic.html</link>
+			<description>Spoken word performances of "A Trail of Red and Grey" and "For a Second Time"</description>
+			<enclosure url="raji-ilangovan-uma.github.io/images/qan.png" length="325243" type="image/png" />
+			<category>Blog Posts</category>
+			<pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+			<guid isPermaLink="true">https://raji-ilangovan-uma.github.io/qan-open-mic.html</guid>
+		</item>
+		<item>
 			<title>For a Second Time</title>
 			<link>https://raji-ilangovan-uma.github.io/for-a-second-time.html</link>
 			<description>I have walked this earth searching for her.</description>
